@@ -1,6 +1,6 @@
 # GCP IAM Monitor Twitter Bot - Coming soon!
 
-Credit to [darkbitio/gcp-iam-role-permissions](https://github.com/darkbitio/gcp-iam-role-permissions) for laying the groundwork to build this bot on top of. 
+Credit to [darkbitio/gcp-iam-role-permissions](https://github.com/darkbitio/gcp-iam-role-permissions) for laying the GCP IAM groundwork and [z0ph/MAMIP](https://github.com/z0ph/MAMIP) for the AWS blueprint!
 
 
 This repository contains the code for the Twitter bot @name which will tweet when new GCP IAM updates are found.
