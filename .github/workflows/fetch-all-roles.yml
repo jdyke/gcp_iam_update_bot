@@ -20,11 +20,14 @@ jobs:
       with:
         workload_identity_provider: 'projects/376681942354/locations/global/workloadIdentityPools/github-identity-pool/providers/github-oidc-provider'
         service_account: 'github-iam-monitor@gcp-iam-monitor-bot.iam.gserviceaccount.com'
-    - name: set gcp project
+    # Install gcloud, `setup-gcloud` automatically picks up authentication from `auth`.
+    - name: 'Set up Cloud SDK'
+      uses: 'google-github-actions/setup-gcloud@v0'
+    - name: 'set gcp project'
       run: gcloud config set project gcp-iam-monitor-bot
-    - name: fetch all iam roles
+    - name: 'fetch all iam roles'
       run: ./fetch-all-roles.sh
-    - name: commit, tag, and release
+    - name: 'commit, tag, and release'
       run: ./.github/commit-and-release.sh
       env:
         GITHUB_TOKEN: ${{ secrets.TOKEN }}
