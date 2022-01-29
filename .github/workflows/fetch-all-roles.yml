@@ -23,8 +23,6 @@ jobs:
     # Install gcloud, `setup-gcloud` automatically picks up authentication from `auth`.
     - name: 'Set up Cloud SDK'
       uses: 'google-github-actions/setup-gcloud@v0'
-    - name: 'Set GCP Project'
-      run: gcloud config set project gcp-iam-monitor-bot
     - name: 'Fetch all IAM Roles'
       run: ./fetch-all-roles.sh
     - name: 'Commit, Tag, and Release'
