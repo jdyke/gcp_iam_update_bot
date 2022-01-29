@@ -44,7 +44,7 @@ if [[ ${CHANGES} -eq 1 ]]; then
   RELEASE_BODY="$(printf '{"tag_name": "%s","target_commitish": "master","name": "Release %s","body": "%s","draft": false,"prerelease": false}' $NEW_TAG $NEW_TAG "$RELEASE_TEXT")"
   # Push release
   echo curl -H "Authorization: token <mytoken>" -XPOST --data "${RELEASE_BODY}" "https://api.github.com/repos/${GITHUB_REPOSITORY}/releases" 
-  curl -H "Authorization: token ${GITHUB_TOKEN}" -XPOST --data "${RELEASE_BODY}" "https://api.github.com/repos/${GITHUB_REPOSITORY}/releases" 
+  curl -H "Authorization: token ${TOKEN}" -XPOST --data "${RELEASE_BODY}" "https://api.github.com/repos/${GITHUB_REPOSITORY}/releases" 
 else
   echo "No changes detected"
 fi
