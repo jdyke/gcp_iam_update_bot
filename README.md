@@ -1,4 +1,4 @@
-# GCP IAM Monitor Twitter Bot
+# GCP IAM Monitor Twitter Bot - Coming soon!
 
 Credit to [darkbitio/gcp-iam-role-permissions](https://github.com/darkbitio/gcp-iam-role-permissions) for laying the groundwork to build this bot on top of. 
 
