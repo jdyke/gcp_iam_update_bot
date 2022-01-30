@@ -1,4 +1,4 @@
-# GCP IAM Uodate Twitter Bot
+# GCP IAM Update Twitter Bot
 
 ![Fetch all roles](https://github.com/jdyke/gcp_iam_update_bot/workflows/Fetch%20all%20roles/badge.svg)
 ![Twitter Tweet](https://github.com/jdyke/gcp_iam_update_bot/workflows/tweet-release/badge.svg)
