@@ -27,7 +27,7 @@ if [[ ${CHANGES} -eq 1 ]]; then
   git commit -m 'Fetch all roles'
 
   # Create tag
-  NEW_TAG="$(date +'%Y-%m-%d_%H:%M:%S')"
+  NEW_TAG="$(date +'%Y-%m-%d-%H-%M-%S')"
   echo "New tag: ${NEW_TAG}"
   NEW_GITHUB_SHA="$(git rev-parse HEAD)"
   echo "New sha: ${NEW_GITHUB_SHA}"
