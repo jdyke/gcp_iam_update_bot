@@ -33,4 +33,4 @@ jobs:
     - name: 'Commit, Tag, and Release'
       run: ./.github/commit-and-release.sh
       env:
-        TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
