@@ -9,9 +9,8 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     permissions:
-      contents: 'write'
+      contents: 'read'
       id-token: 'write'
-      deployments: 'write'
     steps:
     - name: checkout repo
       uses: actions/checkout@v2
