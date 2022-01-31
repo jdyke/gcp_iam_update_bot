@@ -1,0 +1,33 @@
+{
+  "description": "Grants access to read all resources in Retail.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "automlrecommendations.catalogItems.get",
+    "automlrecommendations.catalogItems.list",
+    "automlrecommendations.catalogs.getStats",
+    "automlrecommendations.catalogs.list",
+    "automlrecommendations.eventStores.getStats",
+    "automlrecommendations.events.list",
+    "automlrecommendations.placements.getStats",
+    "automlrecommendations.placements.list",
+    "automlrecommendations.recommendations.list",
+    "retail.attributesConfigs.get",
+    "retail.catalogs.completeQuery",
+    "retail.catalogs.list",
+    "retail.controls.get",
+    "retail.controls.list",
+    "retail.models.list",
+    "retail.operations.get",
+    "retail.operations.list",
+    "retail.placements.predict",
+    "retail.placements.search",
+    "retail.products.export",
+    "retail.products.get",
+    "retail.products.list",
+    "retail.servingConfigs.get",
+    "retail.servingConfigs.list"
+  ],
+  "name": "roles/retail.viewer",
+  "stage": "GA",
+  "title": "Retail Viewer"
+}

@@ -1,0 +1,30 @@
+{
+  "description": "Editor of Bare Metal Solution resources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "baremetalsolution.instances.create",
+    "baremetalsolution.instances.get",
+    "baremetalsolution.instances.list",
+    "baremetalsolution.instances.reset",
+    "baremetalsolution.networks.get",
+    "baremetalsolution.networks.list",
+    "baremetalsolution.snapshotschedulepolicies.create",
+    "baremetalsolution.snapshotschedulepolicies.delete",
+    "baremetalsolution.snapshotschedulepolicies.get",
+    "baremetalsolution.snapshotschedulepolicies.list",
+    "baremetalsolution.snapshotschedulepolicies.update",
+    "baremetalsolution.volumes.get",
+    "baremetalsolution.volumes.list",
+    "baremetalsolution.volumes.update",
+    "baremetalsolution.volumesnapshots.create",
+    "baremetalsolution.volumesnapshots.delete",
+    "baremetalsolution.volumesnapshots.get",
+    "baremetalsolution.volumesnapshots.list",
+    "baremetalsolution.volumesnapshots.restore",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/baremetalsolution.editor",
+  "stage": "GA",
+  "title": "Bare Metal Solution Editor"
+}
