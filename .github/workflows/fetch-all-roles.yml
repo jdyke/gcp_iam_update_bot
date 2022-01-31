@@ -8,9 +8,6 @@ on:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    permissions:
-      contents: 'read'
-      id-token: 'write'
     steps:
     - name: checkout repo
       uses: actions/checkout@v2
