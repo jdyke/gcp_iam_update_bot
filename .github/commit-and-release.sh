@@ -6,6 +6,11 @@ echo "Commit and Release"
 echo "------------------"
 echo "Current Hash: ${GITHUB_SHA}"
 
+# Git creds
+git config --global user.email "${EMAIL}"
+git config --global user.name "${NAME}"
+
+
 # Test if changes
 git diff --quiet roles || CHANGES=1
 
