@@ -2,15 +2,9 @@
 
 CHANGES=0
 
-ACTOR_EMAIL="${GITHUB_ACTOR}@users.noreply.github.com"
-
 echo "Commit and Release"
 echo "------------------"
 echo "Current Hash: ${GITHUB_SHA}"
-
-# Set GH settings
-git config --global user.email "${GITHUB_ACTOR_EMAIL}"
-git config --global user.name "${GITHUB_ACTOR}"
 
 # Test if changes
 git diff --quiet roles || CHANGES=1
