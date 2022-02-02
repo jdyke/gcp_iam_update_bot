@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: Eomm/why-don-t-you-tweet@v1
         with:
-          tweet-message: "New GCP IAM update bot findings! ${{ github.event.release.html_url }} #GCP #IAM"
+          tweet-message: "New GCP IAM update bot findings! ${{ github.event.head_commit.url }} #GCP #IAM"
         env:
           TWITTER_CONSUMER_API_KEY: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
           TWITTER_CONSUMER_API_SECRET: ${{ secrets.TWITTER_CONSUMER_API_SECRET }}
