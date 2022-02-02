@@ -23,8 +23,8 @@ if [[ ${CHANGES} -eq 1 ]]; then
   # Add and commit
   echo "git add -A roles"
   git add -A roles
-  echo "git commit -m 'Fetch all roles'"
-  git commit -m 'Fetch all roles'
+  echo "git commit -m 'GCP IAM Updated Detected'"
+  git commit -m 'GCP IAM Updated Detected'
 
   # Create tag
   NEW_TAG="$(date +'%Y-%m-%d-%H-%M-%S')"
