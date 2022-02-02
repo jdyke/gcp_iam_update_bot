@@ -2,6 +2,7 @@ name: tweet-release
 
 on:
   release:
+    types: [released]
 
 jobs:
   tweet:
