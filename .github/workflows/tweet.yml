@@ -1,9 +1,8 @@
 name: tweet-release
 
 on:
-  push:
-    tags:
-      - '*'
+  release:
+     types: [published]
 
 jobs:
   tweet:
