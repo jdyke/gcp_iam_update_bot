@@ -1,0 +1,14 @@
+{
+  "description": "Read access to security center BigQuery Exports",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.folders.get",
+    "resourcemanager.folders.list",
+    "resourcemanager.organizations.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/securitycenter.bigQueryExportsViewer",
+  "stage": "ALPHA",
+  "title": "Security Center BigQuery Exports Viewer"
+}
