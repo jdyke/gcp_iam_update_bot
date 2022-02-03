@@ -43,7 +43,7 @@ if [[ ${CHANGES} -eq 1 ]]; then
 
   # Create release body
   RELEASE_DIFF="$(git diff ${GITHUB_SHA} ${NEW_GITHUB_SHA} --compact-summary | sed -e ':a' -e 'N' -e '$!ba' -e 's/\n/\\n/g')"
-  RELEASE_TEXT="GCP IAM Update ${NEW_TAG}\n\n\`\`\`\n${RELEASE_DIFF}\n\`\`\`"
+  RELEASE_TEXT="GCP IAM Roles Updated on: ${NEW_TAG}\n\n\`\`\`\n${RELEASE_DIFF}\n\`\`\`"
   RELEASE_BODY="$(printf '{"tag_name": "%s","target_commitish": "main","name": "GCP IAM Update Detected on %s","body": "%s","draft": false,"prerelease": false}' $NEW_TAG $TODAY "$RELEASE_TEXT")"
   # Push release
   echo curl -H "Authorization: token <mytoken>" -XPOST --data "${RELEASE_BODY}" "https://api.github.com/repos/${GITHUB_REPOSITORY}/releases" 
