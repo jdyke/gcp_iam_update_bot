@@ -175,7 +175,6 @@
     "binaryauthorization.attestors.getIamPolicy",
     "binaryauthorization.attestors.list",
     "binaryauthorization.continuousValidationConfig.getIamPolicy",
-    "binaryauthorization.platformPolicies.list",
     "binaryauthorization.policy.getIamPolicy",
     "certificatemanager.certmapentries.getIamPolicy",
     "certificatemanager.certmapentries.list",
