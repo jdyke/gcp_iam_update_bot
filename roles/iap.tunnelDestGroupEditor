@@ -1,0 +1,7 @@
+{
+  "description": "Edit Tunnel Destination Group resources which use Identity-Aware Proxy",
+  "etag": "AA==",
+  "name": "roles/iap.tunnelDestGroupEditor",
+  "stage": "ALPHA",
+  "title": "IAP-secured Tunnel Destination Group Editor"
+}
