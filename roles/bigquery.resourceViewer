@@ -8,7 +8,6 @@
     "bigquery.jobs.get",
     "bigquery.jobs.list",
     "bigquery.jobs.listAll",
-    "bigquery.jobs.listExecutionMetadata",
     "bigquery.reservationAssignments.list",
     "bigquery.reservationAssignments.search",
     "bigquery.reservations.get",
