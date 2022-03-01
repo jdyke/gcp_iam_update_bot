@@ -1,0 +1,7 @@
+{
+  "description": "Internal software rollout admin access to BackupDR instances and related resources using the Producer API.",
+  "etag": "AA==",
+  "name": "roles/backupdrproducer.internalRolloutAdmin",
+  "stage": "ALPHA",
+  "title": "BackupDR Internal Rollout Admin Role"
+}

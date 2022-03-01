@@ -1,0 +1,11 @@
+{
+  "description": "Viewer for an Advanced API Operations",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/apigee.apiOperationsViewer",
+  "stage": "ALPHA",
+  "title": "Apigee Operations Viewer"
+}
