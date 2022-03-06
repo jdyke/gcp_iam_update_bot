@@ -12,10 +12,7 @@
     "pubsub.topics.get",
     "pubsub.topics.list",
     "pubsub.topics.publish",
-    "storagetransfer.agentpools.report",
-    "storagetransfer.operations.assign",
-    "storagetransfer.operations.get",
-    "storagetransfer.operations.report"
+    "storagetransfer.operations.get"
   ],
   "name": "roles/storagetransfer.transferAgent",
   "stage": "GA",
