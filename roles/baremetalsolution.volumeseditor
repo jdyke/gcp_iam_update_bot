@@ -2,11 +2,9 @@
   "description": "Editor of Bare Metal Solution volumes resources",
   "etag": "AA==",
   "includedPermissions": [
-    "baremetalsolution.volumes.get",
-    "baremetalsolution.volumes.list",
-    "baremetalsolution.volumes.update"
+    "baremetalsolution.volumes.list"
   ],
   "name": "roles/baremetalsolution.volumeseditor",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Volumes Editor"
 }
