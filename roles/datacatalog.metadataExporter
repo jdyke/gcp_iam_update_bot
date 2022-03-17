@@ -1,0 +1,11 @@
+{
+  "description": "Can export metadata for a project from DataCatalog",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/datacatalog.metadataExporter",
+  "stage": "ALPHA",
+  "title": "DataCatalog Metadata Exporter"
+}
