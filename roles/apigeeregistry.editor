@@ -35,6 +35,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/apigeeregistry.editor",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Cloud Apigee Registry Editor"
 }
