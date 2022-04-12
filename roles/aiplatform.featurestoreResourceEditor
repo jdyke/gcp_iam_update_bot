@@ -1,5 +1,5 @@
 {
-  "description": "Manage all resources within Featurestores, but cannot create or update the Featurestores.",
+  "description": "Deprecated. Use featurestoreAdmin instead.",
   "etag": "AA==",
   "includedPermissions": [
     "aiplatform.entityTypes.create",
@@ -19,6 +19,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/aiplatform.featurestoreResourceEditor",
-  "stage": "BETA",
+  "stage": "DEPRECATED",
   "title": "Vertex AI Feature Store Resource Editor"
 }
