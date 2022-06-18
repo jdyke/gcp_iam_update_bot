@@ -1,0 +1,21 @@
+{
+  "description": "Grants the Backup and DR service installation access.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "compute.firewalls.create",
+    "compute.firewalls.delete",
+    "compute.instances.create",
+    "compute.instances.delete",
+    "compute.instances.get",
+    "compute.subnetworks.setPrivateIpGoogleAccess",
+    "compute.subnetworks.use",
+    "logging.logEntries.create",
+    "workflows.executions.create",
+    "workflows.executions.get",
+    "workflows.workflows.create",
+    "workflows.workflows.delete"
+  ],
+  "name": "roles/backupdr.installerServiceAgent",
+  "stage": "ALPHA",
+  "title": "Backup and DR Installer Service Agent"
+}
