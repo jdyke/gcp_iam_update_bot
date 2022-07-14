@@ -13,6 +13,6 @@
     "storage.objects.list"
   ],
   "name": "roles/container.nodeServiceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Kubernetes Engine Node Service Agent"
 }
