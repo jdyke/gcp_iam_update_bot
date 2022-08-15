@@ -25,7 +25,6 @@
     "firebase.clients.delete",
     "firebase.clients.get",
     "firebase.clients.list",
-    "firebase.clients.undelete",
     "firebase.clients.update",
     "firebase.projects.get",
     "firebase.projects.update",

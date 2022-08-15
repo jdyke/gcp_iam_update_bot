@@ -28,6 +28,7 @@
     "firebaseinappmessaging.campaigns.list",
     "firebasenotifications.messages.get",
     "firebasenotifications.messages.list",
+    "firebasepredictions.predictions.list",
     "monitoring.timeSeries.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.getIamPolicy",

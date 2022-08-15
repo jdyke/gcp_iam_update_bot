@@ -14,7 +14,6 @@
     "contentwarehouse.documents.setIamPolicy",
     "contentwarehouse.documents.update",
     "contentwarehouse.locations.initialize",
-    "contentwarehouse.operations.get",
     "contentwarehouse.rawDocuments.download",
     "contentwarehouse.rawDocuments.upload",
     "contentwarehouse.ruleSets.create",
