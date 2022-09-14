@@ -37,6 +37,6 @@
     "workstations.workstations.use"
   ],
   "name": "roles/workstations.admin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Cloud Workstations Admin"
 }
