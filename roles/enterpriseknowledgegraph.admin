@@ -11,6 +11,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/enterpriseknowledgegraph.admin",
-  "stage": "BETA",
+  "stage": "EAP",
   "title": "Enterprise Knowledge Graph Admin"
 }
