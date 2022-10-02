@@ -2020,6 +2020,7 @@
     "managedidentities.backups.get",
     "managedidentities.backups.getIamPolicy",
     "managedidentities.backups.list",
+    "managedidentities.domains.checkMigrationPermission",
     "managedidentities.domains.get",
     "managedidentities.domains.getIamPolicy",
     "managedidentities.domains.list",
