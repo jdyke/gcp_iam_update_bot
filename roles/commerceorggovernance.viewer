@@ -11,6 +11,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/commerceorggovernance.viewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Commerce Org Governance Viewer"
 }
