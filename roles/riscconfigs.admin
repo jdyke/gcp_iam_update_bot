@@ -1,13 +1,12 @@
 {
-  "description": "Read/write access to RISC config resources.",
+  "description": "Full access to all RiscConfigurationService commands.",
   "etag": "AA==",
   "includedPermissions": [
-    "clientauthconfig.clients.list",
     "riscconfigurationservice.riscconfigs.createOrUpdate",
     "riscconfigurationservice.riscconfigs.delete",
     "riscconfigurationservice.riscconfigs.get"
   ],
   "name": "roles/riscconfigs.admin",
   "stage": "BETA",
-  "title": "RISC Configuration Admin"
+  "title": "RiscConfiguration Resource Admin"
 }
