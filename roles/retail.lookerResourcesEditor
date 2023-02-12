@@ -1,7 +1,0 @@
-{
-  "description": "Full access to Looker Resource Management API endpoints.",
-  "etag": "AA==",
-  "name": "roles/retail.lookerResourcesEditor",
-  "stage": "ALPHA",
-  "title": "Looker Resource Management Editor"
-}
