@@ -71,5 +71,5 @@
   ],
   "name": "roles/dialogflow.aamConversationalArchitect",
   "stage": "GA",
-  "title": "CX Premium Conversational Architect"
+  "title": "AAM Conversational Architect"
 }

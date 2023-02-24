@@ -6,6 +6,6 @@
     "logging.links.list"
   ],
   "name": "roles/logging.linkViewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Log Link Accessor"
 }

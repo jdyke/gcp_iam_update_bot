@@ -71,5 +71,5 @@
   ],
   "name": "roles/dialogflow.aamViewer",
   "stage": "GA",
-  "title": "CX Premium Viewer"
+  "title": "AAM Viewer"
 }
