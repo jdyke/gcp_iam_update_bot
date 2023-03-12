@@ -1591,6 +1591,7 @@
     "spanner.instances.setIamPolicy",
     "spanner.sessions.list",
     "speech.customClasses.list",
+    "speech.locations.list",
     "speech.operations.list",
     "speech.phraseSets.list",
     "speech.recognizers.list",
