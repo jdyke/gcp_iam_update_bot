@@ -1,0 +1,17 @@
+{
+  "description": "Allows the user to mount from a backup. This role cannot create a backup plan or restore from a backup.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "backupdr.locations.get",
+    "backupdr.locations.list",
+    "backupdr.managementServers.get",
+    "backupdr.managementServers.list",
+    "backupdr.operations.get",
+    "backupdr.operations.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/backupdr.mountUser",
+  "stage": "BETA",
+  "title": "Backup and DR Mount User"
+}
