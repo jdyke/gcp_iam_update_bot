@@ -1,0 +1,7 @@
+{
+  "description": "Allow inspecting audit logs",
+  "etag": "AA==",
+  "name": "roles/consumerprocurement.eventsViewer",
+  "stage": "BETA",
+  "title": "Consumer Procurement Events Viewer"
+}
