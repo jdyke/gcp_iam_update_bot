@@ -1,23 +1,13 @@
 {
-  "description": "Administer Data Exchanges and Listings",
+  "description": "Grants full control over the Subscription, including updating and deleting",
   "etag": "AA==",
   "includedPermissions": [
-    "analyticshub.dataExchanges.create",
-    "analyticshub.dataExchanges.delete",
     "analyticshub.dataExchanges.get",
     "analyticshub.dataExchanges.getIamPolicy",
     "analyticshub.dataExchanges.list",
-    "analyticshub.dataExchanges.setIamPolicy",
-    "analyticshub.dataExchanges.update",
-    "analyticshub.dataExchanges.viewSubscriptions",
-    "analyticshub.listings.create",
-    "analyticshub.listings.delete",
     "analyticshub.listings.get",
     "analyticshub.listings.getIamPolicy",
     "analyticshub.listings.list",
-    "analyticshub.listings.setIamPolicy",
-    "analyticshub.listings.update",
-    "analyticshub.listings.viewSubscriptions",
     "analyticshub.subscriptions.create",
     "analyticshub.subscriptions.delete",
     "analyticshub.subscriptions.get",
@@ -26,7 +16,7 @@
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
-  "name": "roles/analyticshub.admin",
+  "name": "roles/analyticshub.subscriptionOwner",
   "stage": "GA",
-  "title": "Analytics Hub Admin"
+  "title": "Analytics Hub Subscription Owner"
 }
