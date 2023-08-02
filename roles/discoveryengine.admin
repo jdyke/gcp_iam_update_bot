@@ -33,7 +33,6 @@
     "discoveryengine.engines.delete",
     "discoveryengine.engines.get",
     "discoveryengine.engines.list",
-    "discoveryengine.engines.update",
     "discoveryengine.models.create",
     "discoveryengine.models.delete",
     "discoveryengine.models.get",
