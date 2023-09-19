@@ -1,0 +1,11 @@
+{
+  "description": "A repoAdmin has the ability to CRUD a repository and its children as well as assign users to a repository. They can also set, get, or check IAM policies on the repository.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/securesourcemanager.repoAdmin",
+  "stage": "BETA",
+  "title": "Secure Source Manager Repository Admin"
+}

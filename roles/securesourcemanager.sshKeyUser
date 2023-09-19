@@ -1,0 +1,11 @@
+{
+  "description": "An sshKeyUser can create SSH keys for themselves and list/delete SSH keys they own.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/securesourcemanager.sshKeyUser",
+  "stage": "BETA",
+  "title": "Secure Source Manager SSH Key User"
+}

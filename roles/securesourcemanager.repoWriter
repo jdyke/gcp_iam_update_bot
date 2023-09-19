@@ -1,0 +1,11 @@
+{
+  "description": "A repoWriter has read/write access to a particular repository, including its child components. They cannot create repositories, and do not manage IAM policies on the repository.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/securesourcemanager.repoWriter",
+  "stage": "ALPHA",
+  "title": "Secure Source Manager Repository Writer"
+}
