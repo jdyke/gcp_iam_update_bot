@@ -3,7 +3,8 @@
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list"
+    "resourcemanager.projects.list",
+    "securesourcemanager.repositories.create"
   ],
   "name": "roles/securesourcemanager.repoCreator",
   "stage": "BETA",

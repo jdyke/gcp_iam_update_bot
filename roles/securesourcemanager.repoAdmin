@@ -3,7 +3,20 @@
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list"
+    "resourcemanager.projects.list",
+    "securesourcemanager.repositories.create",
+    "securesourcemanager.repositories.delete",
+    "securesourcemanager.repositories.fetch",
+    "securesourcemanager.repositories.get",
+    "securesourcemanager.repositories.getIamPolicy",
+    "securesourcemanager.repositories.list",
+    "securesourcemanager.repositories.push",
+    "securesourcemanager.repositories.readIssues",
+    "securesourcemanager.repositories.readPullRequests",
+    "securesourcemanager.repositories.setIamPolicy",
+    "securesourcemanager.repositories.update",
+    "securesourcemanager.repositories.writeIssues",
+    "securesourcemanager.repositories.writePullRequests"
   ],
   "name": "roles/securesourcemanager.repoAdmin",
   "stage": "BETA",

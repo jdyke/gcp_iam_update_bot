@@ -3,9 +3,14 @@
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list"
+    "resourcemanager.projects.list",
+    "securesourcemanager.repositories.fetch",
+    "securesourcemanager.repositories.get",
+    "securesourcemanager.repositories.list",
+    "securesourcemanager.repositories.readIssues",
+    "securesourcemanager.repositories.readPullRequests"
   ],
   "name": "roles/securesourcemanager.repoReader",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Secure Source Manager Repository Reader"
 }

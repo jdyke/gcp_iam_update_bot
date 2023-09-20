@@ -3,9 +3,27 @@
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list"
+    "resourcemanager.projects.list",
+    "securesourcemanager.instances.access",
+    "securesourcemanager.instances.createRepository",
+    "securesourcemanager.instances.delete",
+    "securesourcemanager.instances.get",
+    "securesourcemanager.instances.list",
+    "securesourcemanager.locations.get",
+    "securesourcemanager.locations.list",
+    "securesourcemanager.operations.cancel",
+    "securesourcemanager.operations.delete",
+    "securesourcemanager.operations.get",
+    "securesourcemanager.operations.list",
+    "securesourcemanager.sshkeys.create",
+    "securesourcemanager.sshkeys.createAny",
+    "securesourcemanager.sshkeys.delete",
+    "securesourcemanager.sshkeys.deleteAny",
+    "securesourcemanager.sshkeys.get",
+    "securesourcemanager.sshkeys.list",
+    "securesourcemanager.sshkeys.listAny"
   ],
   "name": "roles/securesourcemanager.instanceManager",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Secure Source Manager Instance Manager"
 }
