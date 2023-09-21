@@ -1,0 +1,7 @@
+{
+  "description": "Grants the ability to enable and disable the usage of the policy remediator for the organization",
+  "etag": "AA==",
+  "name": "roles/policyremediatormanager.policyRemediatorAdmin",
+  "stage": "ALPHA",
+  "title": "Policy Remediator Admin"
+}
