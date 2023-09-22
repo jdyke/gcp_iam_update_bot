@@ -2,10 +2,14 @@
   "description": "Provides read-only access to VM Manager Upgrade Reports",
   "etag": "AA==",
   "includedPermissions": [
+    "osconfig.upgradeReports.get",
+    "osconfig.upgradeReports.getSummary",
+    "osconfig.upgradeReports.list",
+    "osconfig.upgradeReports.searchSummaries",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
   "name": "roles/osconfig.upgradeReportViewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Upgrade Report Viewer"
 }
