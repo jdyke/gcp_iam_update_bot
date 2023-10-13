@@ -1,0 +1,18 @@
+{
+  "description": "Grants access to edit media assets into the Warehouse.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "visionai.assets.clip",
+    "visionai.assets.create",
+    "visionai.assets.delete",
+    "visionai.assets.generateHlsUri",
+    "visionai.assets.get",
+    "visionai.assets.ingest",
+    "visionai.assets.list",
+    "visionai.assets.search",
+    "visionai.assets.update"
+  ],
+  "name": "roles/visionai.assetEditor",
+  "stage": "BETA",
+  "title": "VisionAI Warehouse Asset Editor"
+}

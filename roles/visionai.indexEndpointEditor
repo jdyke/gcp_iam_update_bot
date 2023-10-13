@@ -1,0 +1,7 @@
+{
+  "description": "Read, write and create access to all index endpoints level resources.",
+  "etag": "AA==",
+  "name": "roles/visionai.indexEndpointEditor",
+  "stage": "BETA",
+  "title": "VisionAI Warehouse IndexEndpoint Editor"
+}

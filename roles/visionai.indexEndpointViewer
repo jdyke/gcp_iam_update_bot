@@ -1,0 +1,7 @@
+{
+  "description": "Grants access to view all index endpoint resources and be able to search on them. (ReadOnly)\n",
+  "etag": "AA==",
+  "name": "roles/visionai.indexEndpointViewer",
+  "stage": "BETA",
+  "title": "VisionAI Warehouse IndexEndpoint Viewer"
+}

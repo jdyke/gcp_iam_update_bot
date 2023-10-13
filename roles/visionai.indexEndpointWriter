@@ -1,0 +1,7 @@
+{
+  "description": "Grants access to perform update, delete, deploy and undeploy operations on the index endpoint.\n",
+  "etag": "AA==",
+  "name": "roles/visionai.indexEndpointWriter",
+  "stage": "BETA",
+  "title": "VisionAI Warehouse IndexEndpoint Writer"
+}
