@@ -1,0 +1,7 @@
+{
+  "description": "Ability to manage deployments",
+  "etag": "AA==",
+  "name": "roles/telcoautomation.serviceOrchestrator",
+  "stage": "ALPHA",
+  "title": "Telco Automation Service Orchestrator"
+}

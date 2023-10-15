@@ -1,0 +1,7 @@
+{
+  "description": "Ability to manage deployments",
+  "etag": "AA==",
+  "name": "roles/telcoautomation.deploymentAdmin",
+  "stage": "ALPHA",
+  "title": "Telco Automation Deployment Admin"
+}

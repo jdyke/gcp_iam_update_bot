@@ -1,0 +1,7 @@
+{
+  "description": "Ability to manage blueprints",
+  "etag": "AA==",
+  "name": "roles/telcoautomation.blueprintDesigner",
+  "stage": "ALPHA",
+  "title": "Telco Automation Blueprint Designer"
+}
