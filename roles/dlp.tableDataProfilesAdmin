@@ -2,6 +2,7 @@
   "description": "Manage DLP table profiles.",
   "etag": "AA==",
   "includedPermissions": [
+    "dlp.tableDataProfiles.delete",
     "dlp.tableDataProfiles.get",
     "dlp.tableDataProfiles.list"
   ],
