@@ -21,6 +21,6 @@
     "serviceusage.services.use"
   ],
   "name": "roles/looker.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Looker Service Agent"
 }
