@@ -1,31 +1,23 @@
 {
-  "description": "Full access to Storage Insights resources.",
+  "description": "Data access to Storage Insights.",
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
-    "storageinsights.datasetConfigs.create",
-    "storageinsights.datasetConfigs.delete",
     "storageinsights.datasetConfigs.get",
     "storageinsights.datasetConfigs.linkDataset",
     "storageinsights.datasetConfigs.list",
     "storageinsights.datasetConfigs.unlinkDataset",
-    "storageinsights.datasetConfigs.update",
     "storageinsights.locations.get",
     "storageinsights.locations.list",
-    "storageinsights.operations.cancel",
-    "storageinsights.operations.delete",
     "storageinsights.operations.get",
     "storageinsights.operations.list",
-    "storageinsights.reportConfigs.create",
-    "storageinsights.reportConfigs.delete",
     "storageinsights.reportConfigs.get",
     "storageinsights.reportConfigs.list",
-    "storageinsights.reportConfigs.update",
     "storageinsights.reportDetails.get",
     "storageinsights.reportDetails.list"
   ],
-  "name": "roles/storageinsights.admin",
+  "name": "roles/storageinsights.analyst",
   "stage": "GA",
-  "title": "Storage Insights Admin"
+  "title": "Storage Insights Analyst"
 }
