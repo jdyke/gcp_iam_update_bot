@@ -2,6 +2,7 @@
   "description": "Security admin for an Apigee Organization",
   "etag": "AA==",
   "includedPermissions": [
+    "apigee.addonsconfig.get",
     "apigee.entitlements.get",
     "apigee.envgroupattachments.get",
     "apigee.envgroupattachments.list",
@@ -32,6 +33,8 @@
     "apigee.securityProfiles.get",
     "apigee.securityProfiles.list",
     "apigee.securityProfiles.update",
+    "apigee.securitySettings.get",
+    "apigee.securitySettings.update",
     "apigee.securityStats.queryTabularStats",
     "apigee.securityStats.queryTimeSeriesStats",
     "apigee.securityreports.create",
