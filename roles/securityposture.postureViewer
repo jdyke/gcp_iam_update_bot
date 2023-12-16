@@ -1,0 +1,10 @@
+{
+  "description": "Read only access to the Posture resource.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.organizations.get"
+  ],
+  "name": "roles/securityposture.postureViewer",
+  "stage": "EAP",
+  "title": "Security Posture Resource Viewer"
+}
