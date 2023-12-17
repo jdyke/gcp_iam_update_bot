@@ -14,7 +14,13 @@
     "orgpolicy.policies.update",
     "orgpolicy.policy.get",
     "orgpolicy.policy.set",
-    "resourcemanager.organizations.get"
+    "resourcemanager.organizations.get",
+    "securityposture.operations.get",
+    "securityposture.postureDeployments.create",
+    "securityposture.postureDeployments.delete",
+    "securityposture.postureDeployments.get",
+    "securityposture.postureDeployments.list",
+    "securityposture.postureDeployments.update"
   ],
   "name": "roles/securityposture.postureDeployer",
   "stage": "EAP",
