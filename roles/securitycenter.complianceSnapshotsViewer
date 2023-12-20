@@ -5,6 +5,6 @@
     "securitycenter.compliancesnapshots.list"
   ],
   "name": "roles/securitycenter.complianceSnapshotsViewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Security Center Compliance Snapshots Viewer"
 }
