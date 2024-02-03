@@ -68,7 +68,6 @@
     "chronicle.multitenantDirectories.get",
     "chronicle.operations.get",
     "chronicle.operations.list",
-    "chronicle.operations.streamSearch",
     "chronicle.operations.wait",
     "chronicle.preferenceSets.get",
     "chronicle.preferenceSets.update",
