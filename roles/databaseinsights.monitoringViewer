@@ -1,0 +1,11 @@
+{
+  "description": "Viewer role for Database Insights monitoring data",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/databaseinsights.monitoringViewer",
+  "stage": "ALPHA",
+  "title": "Database Insights monitoring viewer"
+}
