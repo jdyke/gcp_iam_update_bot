@@ -1,0 +1,15 @@
+{
+  "description": "Vertex AI Service Agent used by Vertex RAG to access user imported files in user project with restricted permissions.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "logging.logEntries.create",
+    "logging.logEntries.route",
+    "storage.buckets.get",
+    "storage.buckets.list",
+    "storage.objects.get",
+    "storage.objects.list"
+  ],
+  "name": "roles/aiplatform.ragServiceAgent",
+  "stage": "ALPHA",
+  "title": "Vertex AI RAG Data Service Agent"
+}
