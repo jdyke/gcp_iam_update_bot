@@ -1,0 +1,15 @@
+{
+  "description": "Gives Vertex AI Extension the permissions it needs to function.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "aiplatform.endpoints.predict",
+    "iam.serviceAccounts.getAccessToken",
+    "iam.serviceAccounts.getOpenIdToken",
+    "logging.logEntries.create",
+    "logging.logEntries.route",
+    "storage.objects.get"
+  ],
+  "name": "roles/aiplatform.extensionServiceAgent",
+  "stage": "ALPHA",
+  "title": "Vertex AI Extension Service Agent"
+}
