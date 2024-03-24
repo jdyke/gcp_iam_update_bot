@@ -1,7 +1,0 @@
-{
-  "description": "Access to request Privileged Access Manager Grants.",
-  "etag": "AA==",
-  "name": "roles/privilegedaccessmanager.requester",
-  "stage": "BETA",
-  "title": "Privileged Access Manager Requester"
-}
