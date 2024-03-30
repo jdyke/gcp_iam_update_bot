@@ -1,0 +1,11 @@
+{
+  "description": "Read access to a particular instance of an OAuth client.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/iam.oauthClientViewer",
+  "stage": "ALPHA",
+  "title": "IAM OAuth Client Viewer"
+}
