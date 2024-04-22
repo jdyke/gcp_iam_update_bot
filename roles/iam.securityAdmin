@@ -2025,6 +2025,7 @@
     "videostitcher.liveConfigs.list",
     "videostitcher.slates.list",
     "videostitcher.vodAdTagDetails.list",
+    "videostitcher.vodConfigs.list",
     "videostitcher.vodStitchDetails.list",
     "visionai.analyses.getIamPolicy",
     "visionai.analyses.list",
