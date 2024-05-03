@@ -1,7 +1,9 @@
 {
-  "description": "Viewer of Fleet Scopes and associated resources.",
+  "description": "Edit access to Namespaces under Fleet Scopes.",
   "etag": "AA==",
   "includedPermissions": [
+    "gkehub.namespaces.create",
+    "gkehub.namespaces.delete",
     "gkehub.namespaces.get",
     "gkehub.namespaces.list",
     "gkehub.rbacrolebindings.get",
@@ -10,7 +12,7 @@
     "gkehub.scopes.getIamPolicy",
     "gkehub.scopes.listBoundMemberships"
   ],
-  "name": "roles/gkehub.scopeViewer",
-  "stage": "GA",
-  "title": "Fleet Scope Viewer"
+  "name": "roles/gkehub.scopeEditor",
+  "stage": "ALPHA",
+  "title": "Fleet Scope Editor"
 }
