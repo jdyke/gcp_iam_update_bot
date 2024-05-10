@@ -688,6 +688,7 @@
     "dlp.subscriptions.get",
     "dlp.subscriptions.list",
     "dlp.subscriptions.update",
+    "dlp.tableDataProfiles.delete",
     "dlp.tableDataProfiles.get",
     "dlp.tableDataProfiles.list",
     "pubsub.topics.updateTag",
