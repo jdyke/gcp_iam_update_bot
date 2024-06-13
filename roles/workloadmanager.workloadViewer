@@ -1,0 +1,7 @@
+{
+  "description": "The role used to view the workload related data.",
+  "etag": "AA==",
+  "name": "roles/workloadmanager.workloadViewer",
+  "stage": "ALPHA",
+  "title": "Workload Manager Workload Viewer"
+}

@@ -1,0 +1,11 @@
+{
+  "description": "Allows read-only permissions to access backup vault resources and backups.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "backupdr.operations.get",
+    "backupdr.operations.list"
+  ],
+  "name": "roles/backupdr.backupvaultViewer",
+  "stage": "ALPHA",
+  "title": "Backup and DR Backup Vault Viewer"
+}
