@@ -25,6 +25,6 @@
     "serviceusage.services.list"
   ],
   "name": "roles/managedkafka.client",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Managed Kafka Client"
 }
