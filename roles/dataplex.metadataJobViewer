@@ -2,11 +2,13 @@
   "description": "Read access to Metadata Job resources.",
   "etag": "AA==",
   "includedPermissions": [
+    "dataplex.metadataJobs.get",
+    "dataplex.metadataJobs.list",
     "dataplex.operations.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
   "name": "roles/dataplex.metadataJobViewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Dataplex Metadata Job Viewer"
 }

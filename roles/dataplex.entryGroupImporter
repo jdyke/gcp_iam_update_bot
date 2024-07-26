@@ -3,10 +3,11 @@
   "etag": "AA==",
   "includedPermissions": [
     "dataplex.entryGroups.get",
+    "dataplex.entryGroups.import",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
   "name": "roles/dataplex.entryGroupImporter",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Dataplex Entry Group Importer"
 }
