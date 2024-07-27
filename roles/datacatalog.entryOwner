@@ -22,7 +22,6 @@
     "datacatalog.entries.updateOverview",
     "datacatalog.entries.updateTag",
     "datacatalog.entryGroups.get",
-    "dataplex.projects.search",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],

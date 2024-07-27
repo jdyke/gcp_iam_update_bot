@@ -8,6 +8,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/dataplex.entryGroupImporter",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Dataplex Entry Group Importer"
 }

@@ -385,7 +385,6 @@
     "dataform.locations.list",
     "dataform.repositories.create",
     "dataform.repositories.list",
-    "dataplex.projects.search",
     "iam.serviceAccounts.actAs",
     "iam.serviceAccounts.get",
     "iam.serviceAccounts.list",

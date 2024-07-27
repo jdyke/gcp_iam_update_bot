@@ -68,7 +68,6 @@
     "logging.views.listResourceValues",
     "logging.views.setIamPolicy",
     "logging.views.update",
-    "observability.scopes.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],

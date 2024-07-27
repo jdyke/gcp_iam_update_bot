@@ -189,7 +189,6 @@
     "dataform.workspaces.searchFiles",
     "dataform.workspaces.setIamPolicy",
     "dataform.workspaces.writeFile",
-    "dataplex.projects.search",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],

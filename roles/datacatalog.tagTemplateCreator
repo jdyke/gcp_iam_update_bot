@@ -3,8 +3,7 @@
   "etag": "AA==",
   "includedPermissions": [
     "datacatalog.tagTemplates.create",
-    "datacatalog.tagTemplates.get",
-    "dataplex.projects.search"
+    "datacatalog.tagTemplates.get"
   ],
   "name": "roles/datacatalog.tagTemplateCreator",
   "stage": "GA",

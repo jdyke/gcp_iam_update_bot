@@ -8,7 +8,6 @@
     "datacatalog.entries.updateOverview",
     "datacatalog.entryGroups.get",
     "datacatalog.relationships.list",
-    "dataplex.projects.search",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
