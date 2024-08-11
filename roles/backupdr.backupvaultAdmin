@@ -2,7 +2,6 @@
   "description": "Allows the Backup Appliance full administrative control of backup vault resources.",
   "etag": "AA==",
   "includedPermissions": [
-    "backupdr.backupVaults.associate",
     "backupdr.backupVaults.create",
     "backupdr.backupVaults.delete",
     "backupdr.backupVaults.get",

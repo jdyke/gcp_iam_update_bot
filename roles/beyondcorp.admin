@@ -46,8 +46,6 @@
     "beyondcorp.subscriptions.create",
     "beyondcorp.subscriptions.get",
     "beyondcorp.subscriptions.list",
-    "beyondcorp.subscriptions.terminate",
-    "beyondcorp.subscriptions.update",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
