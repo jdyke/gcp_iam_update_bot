@@ -4,7 +4,6 @@
   "includedPermissions": [
     "assuredworkloads.operations.get",
     "assuredworkloads.operations.list",
-    "assuredworkloads.updates.list",
     "assuredworkloads.violations.get",
     "assuredworkloads.violations.list",
     "assuredworkloads.workload.get",
