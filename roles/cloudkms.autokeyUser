@@ -9,6 +9,6 @@
     "cloudkms.projects.showEffectiveAutokeyConfig"
   ],
   "name": "roles/cloudkms.autokeyUser",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Cloud KMS Autokey User"
 }
