@@ -10,5 +10,5 @@
   ],
   "name": "roles/cloudjobdiscovery.profilesViewer",
   "stage": "GA",
-  "title": "Cloud Talent Solution Profile Viewer"
+  "title": "Profile Viewer"
 }
