@@ -7,6 +7,6 @@
     "storage.objects.list"
   ],
   "name": "roles/dataplex.discoveryServiceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Dataplex Discovery Service Agent"
 }

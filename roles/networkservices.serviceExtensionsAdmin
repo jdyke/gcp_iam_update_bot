@@ -18,16 +18,10 @@
     "networkservices.lbTrafficExtensions.get",
     "networkservices.lbTrafficExtensions.list",
     "networkservices.lbTrafficExtensions.update",
-    "networkservices.wasmPlugins.create",
-    "networkservices.wasmPlugins.delete",
-    "networkservices.wasmPlugins.get",
-    "networkservices.wasmPlugins.list",
-    "networkservices.wasmPlugins.update",
-    "networkservices.wasmPlugins.use",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
   "name": "roles/networkservices.serviceExtensionsAdmin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "Service Extensions Admin"
 }

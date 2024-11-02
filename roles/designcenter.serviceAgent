@@ -19,6 +19,6 @@
     "storage.objects.update"
   ],
   "name": "roles/designcenter.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "DesignCenter Service Agent"
 }

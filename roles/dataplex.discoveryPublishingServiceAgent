@@ -6,6 +6,6 @@
     "bigquery.datasets.get"
   ],
   "name": "roles/dataplex.discoveryPublishingServiceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Dataplex Discovery Publishing Service Agent"
 }

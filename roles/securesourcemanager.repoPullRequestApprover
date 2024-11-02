@@ -3,8 +3,7 @@
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list",
-    "securesourcemanager.repositories.approvePullRequests"
+    "resourcemanager.projects.list"
   ],
   "name": "roles/securesourcemanager.repoPullRequestApprover",
   "stage": "BETA",
