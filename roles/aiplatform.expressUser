@@ -5,6 +5,6 @@
     "aiplatform.endpoints.predict"
   ],
   "name": "roles/aiplatform.expressUser",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Vertex AI Platform Express User"
 }

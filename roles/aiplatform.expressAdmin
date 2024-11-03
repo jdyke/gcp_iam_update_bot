@@ -15,6 +15,6 @@
     "aiplatform.endpoints.predict"
   ],
   "name": "roles/aiplatform.expressAdmin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Vertex AI Platform Express Admin"
 }
