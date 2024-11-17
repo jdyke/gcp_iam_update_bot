@@ -1,5 +1,5 @@
 {
-  "description": "Access to read and/or query a Cloud Spanner database.",
+  "description": "Includes all permissions in the spanner.databaseReader role enabling access to read and/or query a Cloud Spanner database using instance resources, as well as the permission to access the database with Data Boost, a fully managed serverless service that provides independent compute resources.",
   "etag": "AA==",
   "includedPermissions": [
     "monitoring.timeSeries.create",
@@ -9,6 +9,7 @@
     "spanner.databases.partitionRead",
     "spanner.databases.read",
     "spanner.databases.select",
+    "spanner.databases.useDataBoost",
     "spanner.instancePartitions.get",
     "spanner.instances.get",
     "spanner.sessions.create",
@@ -16,7 +17,7 @@
     "spanner.sessions.get",
     "spanner.sessions.list"
   ],
-  "name": "roles/spanner.databaseReader",
+  "name": "roles/spanner.databaseReaderWithDataBoost",
   "stage": "GA",
-  "title": "Cloud Spanner Database Reader"
+  "title": "Cloud Spanner Database Reader with DataBoost"
 }
