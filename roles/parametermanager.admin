@@ -1,0 +1,11 @@
+{
+  "description": "Grants full access to all Parameter Manager resources. Intended for project admins & owners who need to perform all administrative tasks.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/parametermanager.admin",
+  "stage": "ALPHA",
+  "title": "Parameter Manager Admin"
+}
