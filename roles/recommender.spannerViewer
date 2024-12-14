@@ -4,10 +4,14 @@
   "includedPermissions": [
     "recommender.locations.get",
     "recommender.locations.list",
+    "recommender.spannerProjectReliabilityInsights.get",
+    "recommender.spannerProjectReliabilityInsights.list",
+    "recommender.spannerProjectReliabilityRecommendations.get",
+    "recommender.spannerProjectReliabilityRecommendations.list",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.spannerViewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Spanner Project Reliability Recommender Viewer"
 }
