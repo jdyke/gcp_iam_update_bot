@@ -42,8 +42,7 @@
     "monitoring.metricDescriptors.list",
     "monitoring.monitoredResourceDescriptors.get",
     "monitoring.monitoredResourceDescriptors.list",
-    "monitoring.timeSeries.create",
-    "telemetry.traces.write"
+    "monitoring.timeSeries.create"
   ],
   "name": "roles/apigee.serviceAgent",
   "stage": "GA",
