@@ -1,0 +1,7 @@
+{
+  "description": "Grants access and approval rights to MerchantControls in the merchant console.",
+  "etag": "AA==",
+  "name": "roles/retail.merchantApprover",
+  "stage": "ALPHA",
+  "title": "Retail Merchant Approver"
+}
