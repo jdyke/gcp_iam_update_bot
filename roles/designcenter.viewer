@@ -1,0 +1,17 @@
+{
+  "description": "Readonly access to Application Design Center resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "storage.folders.get",
+    "storage.folders.list",
+    "storage.managedFolders.get",
+    "storage.managedFolders.list",
+    "storage.objects.get",
+    "storage.objects.list"
+  ],
+  "name": "roles/designcenter.viewer",
+  "stage": "EAP",
+  "title": "Application Design Center Viewer"
+}

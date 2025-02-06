@@ -1,0 +1,7 @@
+{
+  "description": "Grants read and write access to repositories through the Git Proxy.",
+  "etag": "AA==",
+  "name": "roles/developerconnect.gitProxyUser",
+  "stage": "ALPHA",
+  "title": "Developer Connect Git Proxy User"
+}

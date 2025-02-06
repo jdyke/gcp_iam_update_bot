@@ -1,0 +1,32 @@
+{
+  "description": "Full access to Application Design Center resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "apphub.serviceProjectAttachments.list",
+    "orgpolicy.policy.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "storage.folders.create",
+    "storage.folders.delete",
+    "storage.folders.get",
+    "storage.folders.list",
+    "storage.folders.rename",
+    "storage.managedFolders.create",
+    "storage.managedFolders.delete",
+    "storage.managedFolders.get",
+    "storage.managedFolders.list",
+    "storage.multipartUploads.abort",
+    "storage.multipartUploads.create",
+    "storage.multipartUploads.list",
+    "storage.multipartUploads.listParts",
+    "storage.objects.create",
+    "storage.objects.delete",
+    "storage.objects.get",
+    "storage.objects.list",
+    "storage.objects.restore",
+    "storage.objects.update"
+  ],
+  "name": "roles/designcenter.admin",
+  "stage": "EAP",
+  "title": "Application Design Center Admin"
+}

@@ -1,7 +1,0 @@
-{
-  "description": "Grants read and write access to the setting and their bindings.",
-  "etag": "AA==",
-  "name": "roles/cloudaicompanion.settingsAdmin",
-  "stage": "ALPHA",
-  "title": "Settings Admin"
-}
