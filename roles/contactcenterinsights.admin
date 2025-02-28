@@ -1,5 +1,5 @@
 {
-  "description": "Grants read and write access to all Contact Center AI Insights resources.",
+  "description": "Grants full access to all Contact Center AI Insights resources.",
   "etag": "AA==",
   "includedPermissions": [
     "contactcenterinsights.analyses.create",
@@ -11,6 +11,11 @@
     "contactcenterinsights.analysisRules.get",
     "contactcenterinsights.analysisRules.list",
     "contactcenterinsights.analysisRules.update",
+    "contactcenterinsights.assessmentRules.create",
+    "contactcenterinsights.assessmentRules.delete",
+    "contactcenterinsights.assessmentRules.get",
+    "contactcenterinsights.assessmentRules.list",
+    "contactcenterinsights.assessmentRules.update",
     "contactcenterinsights.authorizedAnalyses.create",
     "contactcenterinsights.authorizedAnalyses.delete",
     "contactcenterinsights.authorizedAnalyses.get",
@@ -23,9 +28,11 @@
     "contactcenterinsights.authorizedConversations.upload",
     "contactcenterinsights.authorizedFeedbackLabels.create",
     "contactcenterinsights.authorizedFeedbackLabels.delete",
+    "contactcenterinsights.authorizedFeedbackLabels.download",
     "contactcenterinsights.authorizedFeedbackLabels.get",
     "contactcenterinsights.authorizedFeedbackLabels.list",
     "contactcenterinsights.authorizedFeedbackLabels.update",
+    "contactcenterinsights.authorizedFeedbackLabels.upload",
     "contactcenterinsights.authorizedOperations.get",
     "contactcenterinsights.authorizedOperations.list",
     "contactcenterinsights.authorizedViewSets.create",
@@ -36,7 +43,9 @@
     "contactcenterinsights.authorizedViews.create",
     "contactcenterinsights.authorizedViews.delete",
     "contactcenterinsights.authorizedViews.get",
+    "contactcenterinsights.authorizedViews.getIamPolicy",
     "contactcenterinsights.authorizedViews.list",
+    "contactcenterinsights.authorizedViews.setIamPolicy",
     "contactcenterinsights.authorizedViews.update",
     "contactcenterinsights.conversations.create",
     "contactcenterinsights.conversations.delete",
@@ -114,7 +123,7 @@
     "contactcenterinsights.views.update",
     "contactcenterinsights.visibilityLabels.list"
   ],
-  "name": "roles/contactcenterinsights.editor",
-  "stage": "GA",
-  "title": "Contact Center AI Insights editor"
+  "name": "roles/contactcenterinsights.admin",
+  "stage": "BETA",
+  "title": "Contact Center AI Insights Admin"
 }
