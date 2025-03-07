@@ -17,5 +17,5 @@
   ],
   "name": "roles/databasecenter.admin",
   "stage": "BETA",
-  "title": "Database Center Admin"
+  "title": "Database center admin"
 }
