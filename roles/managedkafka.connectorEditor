@@ -1,17 +1,21 @@
 {
-  "description": "Provides read and write access to Kafka clusters. Intended for, e.g., IT Departments that provision Kafka clusters, but need not be able to read or modify topics or consumer groups.",
+  "description": "Provides read and write access to connectors. Intended for, e.g., developers who configure and operate connectors.",
   "etag": "AA==",
   "includedPermissions": [
     "cloudasset.assets.searchAllResources",
-    "managedkafka.clusters.create",
-    "managedkafka.clusters.delete",
     "managedkafka.clusters.get",
     "managedkafka.clusters.list",
-    "managedkafka.clusters.update",
     "managedkafka.connectClusters.get",
     "managedkafka.connectClusters.list",
+    "managedkafka.connectors.create",
+    "managedkafka.connectors.delete",
     "managedkafka.connectors.get",
     "managedkafka.connectors.list",
+    "managedkafka.connectors.pause",
+    "managedkafka.connectors.restart",
+    "managedkafka.connectors.resume",
+    "managedkafka.connectors.stop",
+    "managedkafka.connectors.update",
     "managedkafka.consumerGroups.get",
     "managedkafka.consumerGroups.list",
     "managedkafka.locations.get",
@@ -26,7 +30,7 @@
     "serviceusage.services.get",
     "serviceusage.services.list"
   ],
-  "name": "roles/managedkafka.clusterEditor",
-  "stage": "GA",
-  "title": "Managed Kafka Cluster Editor"
+  "name": "roles/managedkafka.connectorEditor",
+  "stage": "BETA",
+  "title": "Managed Kafka Connector Editor"
 }
