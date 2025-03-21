@@ -1,0 +1,11 @@
+{
+  "description": "Readonly access to Chronicle Federation Features.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/chronicle.federationViewer",
+  "stage": "ALPHA",
+  "title": "Chronicle API Federation Viewer"
+}

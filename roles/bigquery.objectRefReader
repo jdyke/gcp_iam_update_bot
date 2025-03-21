@@ -1,0 +1,7 @@
+{
+  "description": "Role for reading referenced objects via ObjectRefs in BigQuery",
+  "etag": "AA==",
+  "name": "roles/bigquery.objectRefReader",
+  "stage": "ALPHA",
+  "title": "BigQuery ObjectRef Reader"
+}
