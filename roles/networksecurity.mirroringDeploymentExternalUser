@@ -5,6 +5,6 @@
     "networksecurity.mirroringDeploymentGroups.use"
   ],
   "name": "roles/networksecurity.mirroringDeploymentExternalUser",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Mirroring Deployment External User"
 }

@@ -4,10 +4,16 @@
   "includedPermissions": [
     "recommender.locations.get",
     "recommender.locations.list",
+    "recommender.memorystoreReliabilityInsights.get",
+    "recommender.memorystoreReliabilityInsights.list",
+    "recommender.memorystoreReliabilityInsights.update",
+    "recommender.memorystoreReliabilityRecommendations.get",
+    "recommender.memorystoreReliabilityRecommendations.list",
+    "recommender.memorystoreReliabilityRecommendations.update",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.memorystorereliabilityAdmin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Memorystore Reliability Recommender Admin"
 }

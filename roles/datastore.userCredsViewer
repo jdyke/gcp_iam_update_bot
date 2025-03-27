@@ -1,0 +1,7 @@
+{
+  "description": "Read access to user creds in Cloud Datastore.",
+  "etag": "AA==",
+  "name": "roles/datastore.userCredsViewer",
+  "stage": "ALPHA",
+  "title": "Cloud Datastore User Creds Viewer"
+}
