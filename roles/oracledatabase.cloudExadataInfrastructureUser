@@ -17,6 +17,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/oracledatabase.cloudExadataInfrastructureUser",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Oracle Database@Google Cloud Exadata Infrastructure User"
 }
