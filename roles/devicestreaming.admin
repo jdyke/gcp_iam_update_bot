@@ -1,0 +1,11 @@
+{
+  "description": "Administrator owning access to Direct Access",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/devicestreaming.admin",
+  "stage": "EAP",
+  "title": "Device Streaming Admin"
+}

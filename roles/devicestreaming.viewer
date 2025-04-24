@@ -1,0 +1,11 @@
+{
+  "description": "Viewer, able to see what device streaming sessions exist",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/devicestreaming.viewer",
+  "stage": "EAP",
+  "title": "Device Streaming Viewer"
+}
