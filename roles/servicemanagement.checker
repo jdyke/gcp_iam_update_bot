@@ -5,6 +5,6 @@
     "servicemanagement.services.check"
   ],
   "name": "roles/servicemanagement.checker",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Service Checker"
 }
