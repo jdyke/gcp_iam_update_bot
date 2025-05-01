@@ -513,7 +513,6 @@
     "monitoring.timeSeries.create",
     "monitoring.timeSeries.list",
     "orgpolicy.policy.get",
-    "pubsub.messageTransforms.validate",
     "pubsub.schemas.attach",
     "pubsub.schemas.commit",
     "pubsub.schemas.create",
