@@ -8,6 +8,6 @@
     "cloudaicompanion.repositoryGroups.use"
   ],
   "name": "roles/cloudaicompanion.repositoryGroupsUser",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Repository Groups User"
 }

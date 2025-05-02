@@ -59,6 +59,6 @@
     "cloudaicompanion.settingBindings.releaseChannelSettingsUse"
   ],
   "name": "roles/cloudaicompanion.settingsAdmin",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Gemini for Google Cloud Settings Admin"
 }

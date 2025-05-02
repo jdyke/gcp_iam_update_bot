@@ -96,7 +96,6 @@
     "integrations.suspensions.lift",
     "integrations.suspensions.list",
     "integrations.suspensions.resolve",
-    "pubsub.messageTransforms.validate",
     "pubsub.schemas.attach",
     "pubsub.schemas.create",
     "pubsub.schemas.delete",

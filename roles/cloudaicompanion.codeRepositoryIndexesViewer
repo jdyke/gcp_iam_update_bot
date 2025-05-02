@@ -13,6 +13,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloudaicompanion.codeRepositoryIndexesViewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Code Repository Indexes Viewer"
 }

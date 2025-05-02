@@ -60,7 +60,6 @@
     "cloudsecurityscanner.scanruns.list",
     "cloudsecurityscanner.scans.get",
     "cloudsecurityscanner.scans.list",
-    "pubsub.messageTransforms.validate",
     "pubsub.schemas.get",
     "pubsub.schemas.list",
     "pubsub.schemas.listRevisions",
