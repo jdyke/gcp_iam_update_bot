@@ -566,6 +566,15 @@
     "cloudasset.othercloudconnections.get",
     "cloudasset.othercloudconnections.list",
     "cloudasset.othercloudconnections.verify",
+    "geminicloudassist.investigationRevisions.get",
+    "geminicloudassist.investigationRevisions.list",
+    "geminicloudassist.investigations.get",
+    "geminicloudassist.investigations.getIamPolicy",
+    "geminicloudassist.investigations.list",
+    "geminicloudassist.locations.get",
+    "geminicloudassist.locations.list",
+    "geminicloudassist.operations.get",
+    "geminicloudassist.operations.list",
     "recommender.cloudAssetInsights.get",
     "recommender.cloudAssetInsights.list",
     "recommender.locations.get",
@@ -574,6 +583,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/geminicloudassist.investigationViewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Gemini Cloud Assist Investigation Viewer"
 }
