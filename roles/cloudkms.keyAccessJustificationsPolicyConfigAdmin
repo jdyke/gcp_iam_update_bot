@@ -1,0 +1,7 @@
+{
+  "description": "Grant ability to manage Key Access Justifications Policy at parent resource level.",
+  "etag": "AA==",
+  "name": "roles/cloudkms.keyAccessJustificationsPolicyConfigAdmin",
+  "stage": "ALPHA",
+  "title": "Key Access Justifications Policy Config Admin"
+}
