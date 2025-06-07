@@ -2,6 +2,7 @@
   "description": "Allow Developer Connect to access SDLC information.",
   "etag": "AA==",
   "includedPermissions": [
+    "cloudasset.assets.exportResource",
     "cloudasset.assets.listResource",
     "cloudasset.assets.searchAllResources",
     "cloudasset.feeds.create",
@@ -12,6 +13,6 @@
     "logging.logEntries.create"
   ],
   "name": "roles/developerconnect.insightsAgent",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Developer Connect Insights Config Agent"
 }

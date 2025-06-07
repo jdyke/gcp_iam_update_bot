@@ -67,6 +67,6 @@
     "datastream.streams.update"
   ],
   "name": "roles/datastream.bigqueryWriter",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Datastream Bigquery Writer"
 }
