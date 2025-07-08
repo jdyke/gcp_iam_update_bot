@@ -5,7 +5,6 @@
     "discoveryengine.aclConfigs.get",
     "discoveryengine.agents.get",
     "discoveryengine.agents.list",
-    "discoveryengine.alertPolicies.get",
     "discoveryengine.analytics.acquireDashboardSession",
     "discoveryengine.analytics.refreshDashboardSessionTokens",
     "discoveryengine.answers.get",
