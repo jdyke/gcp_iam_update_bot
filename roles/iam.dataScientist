@@ -956,6 +956,6 @@
     "storage.objects.update"
   ],
   "name": "roles/iam.dataScientist",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Data Scientist"
 }
