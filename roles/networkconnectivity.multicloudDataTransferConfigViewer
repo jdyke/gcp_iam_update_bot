@@ -1,0 +1,11 @@
+{
+  "description": "Read-only access to all Multicloud Data Transfer Config resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/networkconnectivity.multicloudDataTransferConfigViewer",
+  "stage": "ALPHA",
+  "title": "Multicloud Data Transfer Config Viewer"
+}
