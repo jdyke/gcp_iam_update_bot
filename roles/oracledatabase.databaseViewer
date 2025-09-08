@@ -1,7 +1,9 @@
 {
-  "description": "Grants read access to see all Pluggable Database resources.",
+  "description": "Grants read access to see all Container Database resources.",
   "etag": "AA==",
   "includedPermissions": [
+    "oracledatabase.databases.get",
+    "oracledatabase.databases.list",
     "oracledatabase.entitlements.list",
     "oracledatabase.locations.get",
     "oracledatabase.locations.list",
@@ -12,7 +14,7 @@
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
-  "name": "roles/oracledatabase.pluggableDatabaseViewer",
+  "name": "roles/oracledatabase.databaseViewer",
   "stage": "GA",
-  "title": "Oracle Database@Google Cloud Pluggable Database Viewer"
+  "title": "Oracle Database@Google Cloud Container Database Viewer"
 }
