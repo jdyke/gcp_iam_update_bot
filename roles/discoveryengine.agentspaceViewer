@@ -1,5 +1,5 @@
 {
-  "description": "Grants read access to all discovery engine resources.",
+  "description": "Grants access to view the details of Agentspace resources.",
   "etag": "AA==",
   "includedPermissions": [
     "discoveryengine.aclConfigs.get",
@@ -74,12 +74,11 @@
     "discoveryengine.targetSites.get",
     "discoveryengine.targetSites.list",
     "discoveryengine.userEvents.fetchStats",
-    "discoveryengine.userStores.get",
     "discoveryengine.widgetConfigs.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
-  "name": "roles/discoveryengine.viewer",
-  "stage": "GA",
-  "title": "Discovery Engine Viewer"
+  "name": "roles/discoveryengine.agentspaceViewer",
+  "stage": "ALPHA",
+  "title": "Agentspace Viewer"
 }

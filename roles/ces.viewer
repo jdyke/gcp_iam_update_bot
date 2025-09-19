@@ -1,0 +1,11 @@
+{
+  "description": "Readonly access to Customer Engagement Suite resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/ces.viewer",
+  "stage": "ALPHA",
+  "title": "Customer Engagement Suite Viewer"
+}
