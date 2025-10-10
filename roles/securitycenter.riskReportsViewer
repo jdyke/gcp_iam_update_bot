@@ -1,0 +1,10 @@
+{
+  "description": "Read access to security center risk reports",
+  "etag": "AA==",
+  "includedPermissions": [
+    "securitycenter.userinterfacemetadata.get"
+  ],
+  "name": "roles/securitycenter.riskReportsViewer",
+  "stage": "ALPHA",
+  "title": "Security Center Risk Reports Viewer"
+}
