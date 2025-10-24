@@ -8,6 +8,6 @@
     "storage.objects.list"
   ],
   "name": "roles/vectorsearch.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Vector Search Service Agent"
 }
