@@ -16,6 +16,9 @@
     "dataform.compilationResults.get",
     "dataform.compilationResults.list",
     "dataform.compilationResults.query",
+    "dataform.folders.get",
+    "dataform.folders.getIamPolicy",
+    "dataform.folders.queryContents",
     "dataform.locations.get",
     "dataform.locations.list",
     "dataform.repositories.computeAccessTokenStatus",
@@ -26,6 +29,8 @@
     "dataform.repositories.list",
     "dataform.repositories.queryDirectoryContents",
     "dataform.repositories.readFile",
+    "dataform.teamFolders.get",
+    "dataform.teamFolders.getIamPolicy",
     "dataform.workspaces.fetchFileDiff",
     "dataform.workspaces.fetchFileGitStatuses",
     "dataform.workspaces.fetchGitAheadBehind",
@@ -39,6 +44,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/dataform.teamFolderCommenter",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Team Folder Commenter"
 }

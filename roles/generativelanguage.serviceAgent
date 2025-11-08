@@ -6,6 +6,6 @@
     "storage.objects.get"
   ],
   "name": "roles/generativelanguage.serviceAgent",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Generative Language Service Agent"
 }

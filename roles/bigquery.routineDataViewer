@@ -12,6 +12,6 @@
     "bigquery.tables.list"
   ],
   "name": "roles/bigquery.routineDataViewer",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "BigQuery Authorized Routine Data Viewer"
 }

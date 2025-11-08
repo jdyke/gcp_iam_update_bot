@@ -17,6 +17,6 @@
     "bigquery.tables.updateData"
   ],
   "name": "roles/bigquery.routineAdmin",
-  "stage": "BETA",
+  "stage": "ALPHA",
   "title": "BigQuery Authorized Routine Admin"
 }
