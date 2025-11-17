@@ -11,6 +11,6 @@
     "aiplatform.memories.update"
   ],
   "name": "roles/aiplatform.memoryUser",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Vertex AI Agent Engine Memory User Role"
 }
