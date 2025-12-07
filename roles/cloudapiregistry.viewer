@@ -1,0 +1,10 @@
+{
+  "description": "Readonly access to Cloud API Registry for Consumers resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "serviceusage.effectivemcppolicy.get"
+  ],
+  "name": "roles/cloudapiregistry.viewer",
+  "stage": "ALPHA",
+  "title": "Cloud API Registry for Consumers Viewer"
+}

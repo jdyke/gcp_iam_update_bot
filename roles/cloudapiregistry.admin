@@ -1,0 +1,10 @@
+{
+  "description": "Read/write access to Cloud API Registry for Consumers resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "serviceusage.effectivemcppolicy.get"
+  ],
+  "name": "roles/cloudapiregistry.admin",
+  "stage": "ALPHA",
+  "title": "Cloud API Registry for Consumers Admin"
+}
