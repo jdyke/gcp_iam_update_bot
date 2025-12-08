@@ -403,7 +403,6 @@
     "aiplatform.tuningJobs.delete",
     "aiplatform.tuningJobs.get",
     "aiplatform.tuningJobs.list",
-    "aiplatform.tuningJobs.optimizePrompt",
     "aiplatform.tuningJobs.vertexTune",
     "artifactregistry.aptartifacts.create",
     "artifactregistry.attachments.create",
