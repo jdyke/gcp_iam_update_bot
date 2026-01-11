@@ -5,10 +5,9 @@
     "aiplatform.memories.create",
     "aiplatform.memories.delete",
     "aiplatform.memories.generate",
-    "aiplatform.memories.update",
-    "aiplatform.memoryRevisions.rollback"
+    "aiplatform.memories.update"
   ],
   "name": "roles/aiplatform.memoryEditor",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Vertex AI Agent Engine Memory Editor Role"
 }
