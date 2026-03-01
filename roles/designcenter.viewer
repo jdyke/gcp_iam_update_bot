@@ -2,7 +2,6 @@
   "description": "Readonly access to Application Design Center resources.",
   "etag": "AA==",
   "includedPermissions": [
-    "container.clusters.list",
     "designcenter.applicationTemplateRevisions.get",
     "designcenter.applicationTemplateRevisions.list",
     "designcenter.applicationTemplates.get",
@@ -42,6 +41,6 @@
     "storage.objects.list"
   ],
   "name": "roles/designcenter.viewer",
-  "stage": "GA",
+  "stage": "BETA",
   "title": "Application Design Center Viewer"
 }
