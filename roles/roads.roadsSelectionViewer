@@ -3,9 +3,11 @@
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list"
+    "resourcemanager.projects.list",
+    "roads.selectedRoutes.get",
+    "roads.selectedRoutes.list"
   ],
   "name": "roles/roads.roadsSelectionViewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Roads Selection Viewer"
 }
