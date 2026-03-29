@@ -1,30 +1,28 @@
 {
-  "description": "Read-only access to Network Management resources.",
+  "description": "Full access to Cloud Network Insights resources.",
   "etag": "AA==",
   "includedPermissions": [
-    "networkmanagement.connectivitytests.get",
-    "networkmanagement.connectivitytests.getIamPolicy",
-    "networkmanagement.connectivitytests.list",
     "networkmanagement.locations.get",
     "networkmanagement.locations.list",
+    "networkmanagement.monitoringpoints.downloadConfig",
     "networkmanagement.monitoringpoints.get",
     "networkmanagement.monitoringpoints.list",
     "networkmanagement.networkpaths.get",
     "networkmanagement.networkpaths.list",
     "networkmanagement.operations.get",
     "networkmanagement.operations.list",
+    "networkmanagement.providers.create",
+    "networkmanagement.providers.delete",
+    "networkmanagement.providers.generateProviderAccessToken",
     "networkmanagement.providers.get",
     "networkmanagement.providers.list",
-    "networkmanagement.topologygraphs.read",
-    "networkmanagement.vpcflowlogsconfigs.get",
-    "networkmanagement.vpcflowlogsconfigs.list",
     "networkmanagement.webpaths.get",
     "networkmanagement.webpaths.list",
     "resourcemanager.organizations.get",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list"
   ],
-  "name": "roles/networkmanagement.viewer",
-  "stage": "GA",
-  "title": "Network Management Viewer"
+  "name": "roles/networkmanagement.CloudNetworkInsightsAdmin",
+  "stage": "BETA",
+  "title": "Cloud Network Insights Admin"
 }
