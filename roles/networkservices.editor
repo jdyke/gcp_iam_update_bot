@@ -110,6 +110,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/networkservices.editor",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Network Services Editor"
 }

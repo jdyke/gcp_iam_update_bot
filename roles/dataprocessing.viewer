@@ -11,6 +11,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/dataprocessing.viewer",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Dataprocessing Viewer"
 }
