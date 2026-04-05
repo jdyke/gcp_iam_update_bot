@@ -441,6 +441,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.admin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Recommender Admin"
 }

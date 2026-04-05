@@ -13,6 +13,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/dataconnectors.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Dataconnectors Viewer"
 }

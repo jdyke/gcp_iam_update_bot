@@ -440,6 +440,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/recommender.editor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Recommender Editor"
 }

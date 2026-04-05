@@ -36,6 +36,6 @@
     "securesourcemanager.sshkeys.listAny"
   ],
   "name": "roles/securesourcemanager.viewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Securesourcemanager Viewer"
 }

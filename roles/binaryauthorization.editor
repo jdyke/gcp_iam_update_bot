@@ -26,6 +26,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/binaryauthorization.editor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Binaryauthorization Editor"
 }

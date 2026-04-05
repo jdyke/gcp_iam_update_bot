@@ -20,6 +20,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/configdelivery.viewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Configdelivery Viewer"
 }

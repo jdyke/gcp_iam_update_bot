@@ -25,6 +25,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/remotebuildexecution.editor",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Remotebuildexecution Editor"
 }

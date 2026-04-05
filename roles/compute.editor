@@ -882,6 +882,6 @@
     "serviceusage.values.test"
   ],
   "name": "roles/compute.editor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Compute Editor"
 }

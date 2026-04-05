@@ -10,6 +10,6 @@
     "source.repos.update"
   ],
   "name": "roles/source.editor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Source Editor"
 }

@@ -405,6 +405,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/container.editor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Kubernetes Engine Editor"
 }

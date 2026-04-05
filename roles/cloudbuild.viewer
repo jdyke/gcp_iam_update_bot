@@ -23,6 +23,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloudbuild.viewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloudbuild Viewer"
 }

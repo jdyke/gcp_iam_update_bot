@@ -204,6 +204,6 @@
     "serviceusage.values.test"
   ],
   "name": "roles/cloudfunctions.editor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloudfunctions Editor"
 }

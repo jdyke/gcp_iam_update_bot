@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/databasesconsole.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Databasesconsole Viewer"
 }

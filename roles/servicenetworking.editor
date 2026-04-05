@@ -27,6 +27,6 @@
     "servicenetworking.services.use"
   ],
   "name": "roles/servicenetworking.editor",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Servicenetworking Editor"
 }

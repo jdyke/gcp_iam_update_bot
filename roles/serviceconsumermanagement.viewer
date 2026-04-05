@@ -9,6 +9,6 @@
     "serviceconsumermanagement.tenancyu.list"
   ],
   "name": "roles/serviceconsumermanagement.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Serviceconsumermanagement Viewer"
 }

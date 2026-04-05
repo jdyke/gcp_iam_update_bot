@@ -20,6 +20,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/dataconnectors.admin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Dataconnectors Admin"
 }

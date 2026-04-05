@@ -15,6 +15,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/policyremediatormanager.admin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Policyremediatormanager Admin"
 }

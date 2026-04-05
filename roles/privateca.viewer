@@ -33,6 +33,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/privateca.viewer",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Privateca Viewer"
 }

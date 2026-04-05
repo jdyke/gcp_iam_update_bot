@@ -20,6 +20,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/databasesconsole.editor",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Databasesconsole Editor"
 }

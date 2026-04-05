@@ -38,6 +38,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/config.editor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloud Infrastructure Manager Editor"
 }

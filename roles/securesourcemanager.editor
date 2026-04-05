@@ -77,6 +77,6 @@
     "securesourcemanager.sshkeys.listAny"
   ],
   "name": "roles/securesourcemanager.editor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Securesourcemanager Editor"
 }

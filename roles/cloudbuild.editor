@@ -38,6 +38,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloudbuild.editor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Cloudbuild Editor"
 }

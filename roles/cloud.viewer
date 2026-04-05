@@ -8,6 +8,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/cloud.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Cloud Viewer"
 }

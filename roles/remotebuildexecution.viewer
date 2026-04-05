@@ -13,6 +13,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/remotebuildexecution.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Remotebuildexecution Viewer"
 }

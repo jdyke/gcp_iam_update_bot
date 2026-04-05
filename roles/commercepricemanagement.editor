@@ -27,6 +27,6 @@
     "serviceusage.values.test"
   ],
   "name": "roles/commercepricemanagement.editor",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Commercepricemanagement Editor"
 }
