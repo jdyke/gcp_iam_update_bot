@@ -1,5 +1,5 @@
 {
-  "description": "Editor role for developerconnect",
+  "description": "Developer Connect Editor role.",
   "etag": "AA==",
   "includedPermissions": [
     "developerconnect.accountConnectors.create",
@@ -48,6 +48,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/developerconnect.editor",
-  "stage": "BETA",
-  "title": "Developerconnect Editor"
+  "stage": "ALPHA",
+  "title": "Developer Connect Editor"
 }
