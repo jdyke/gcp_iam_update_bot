@@ -1,5 +1,5 @@
 {
-  "description": "Editor role for Assured OSS",
+  "description": "Editor role for assuredoss",
   "etag": "AA==",
   "includedPermissions": [
     "assuredoss.config.get",
@@ -14,5 +14,5 @@
   ],
   "name": "roles/assuredoss.editor",
   "stage": "GA",
-  "title": "Assured OSS Editor"
+  "title": "Assuredoss Editor"
 }

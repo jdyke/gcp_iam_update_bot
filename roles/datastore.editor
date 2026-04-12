@@ -1,5 +1,5 @@
 {
-  "description": "Editor role for Cloud Datastore",
+  "description": "Editor role for datastore",
   "etag": "AA==",
   "includedPermissions": [
     "appengine.applications.get",
@@ -50,5 +50,5 @@
   ],
   "name": "roles/datastore.editor",
   "stage": "GA",
-  "title": "Cloud Datastore Editor"
+  "title": "Datastore Editor"
 }
