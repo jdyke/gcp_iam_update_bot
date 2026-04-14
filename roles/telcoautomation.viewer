@@ -23,6 +23,6 @@
     "telcoautomation.publicBlueprints.list"
   ],
   "name": "roles/telcoautomation.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Telcoautomation Viewer"
 }

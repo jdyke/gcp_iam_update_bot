@@ -1,5 +1,5 @@
 {
-  "description": "Editor role for Cloud Functions",
+  "description": "Editor role for cloudfunctions",
   "etag": "AA==",
   "includedPermissions": [
     "artifactregistry.attachments.get",
@@ -59,8 +59,6 @@
     "eventarc.channelConnections.get",
     "eventarc.channelConnections.getIamPolicy",
     "eventarc.channelConnections.list",
-    "eventarc.channelConnections.listEffectiveTags",
-    "eventarc.channelConnections.listTagBindings",
     "eventarc.channelConnections.publish",
     "eventarc.channels.attach",
     "eventarc.channels.create",
@@ -68,8 +66,6 @@
     "eventarc.channels.get",
     "eventarc.channels.getIamPolicy",
     "eventarc.channels.list",
-    "eventarc.channels.listEffectiveTags",
-    "eventarc.channels.listTagBindings",
     "eventarc.channels.publish",
     "eventarc.channels.undelete",
     "eventarc.channels.update",
@@ -116,8 +112,6 @@
     "eventarc.triggers.get",
     "eventarc.triggers.getIamPolicy",
     "eventarc.triggers.list",
-    "eventarc.triggers.listEffectiveTags",
-    "eventarc.triggers.listTagBindings",
     "eventarc.triggers.undelete",
     "eventarc.triggers.update",
     "recommender.cloudFunctionsPerformanceInsights.get",
@@ -211,5 +205,5 @@
   ],
   "name": "roles/cloudfunctions.editor",
   "stage": "GA",
-  "title": "Cloud Functions Editor"
+  "title": "Cloudfunctions Editor"
 }
