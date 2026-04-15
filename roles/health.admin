@@ -1,0 +1,7 @@
+{
+  "description": "Admin access to Health resources.",
+  "etag": "AA==",
+  "name": "roles/health.admin",
+  "stage": "ALPHA",
+  "title": "Health Admin"
+}

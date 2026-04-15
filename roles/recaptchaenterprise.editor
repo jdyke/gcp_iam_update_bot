@@ -27,6 +27,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/recaptchaenterprise.editor",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Recaptchaenterprise Editor"
 }

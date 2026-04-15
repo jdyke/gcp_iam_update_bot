@@ -1,5 +1,5 @@
 {
-  "description": "Editor role for Cloud Run",
+  "description": "Editor role for run",
   "etag": "AA==",
   "includedPermissions": [
     "recommender.locations.get",
@@ -76,5 +76,5 @@
   ],
   "name": "roles/run.editor",
   "stage": "GA",
-  "title": "Cloud Run Editor"
+  "title": "Run Editor"
 }
