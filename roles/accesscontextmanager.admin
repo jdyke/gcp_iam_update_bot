@@ -37,6 +37,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/accesscontextmanager.admin",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Accesscontextmanager Admin"
 }

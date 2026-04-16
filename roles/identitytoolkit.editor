@@ -26,6 +26,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/identitytoolkit.editor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Identity Toolkit editor"
 }
