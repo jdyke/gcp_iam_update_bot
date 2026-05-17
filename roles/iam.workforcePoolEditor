@@ -1,5 +1,5 @@
 {
-  "description": "Gives permission to edit workforce pools.",
+  "description": "Rights to edit a particular instance of a workforce pool.",
   "etag": "AA==",
   "includedPermissions": [
     "iam.googleapis.com/workforcePoolProviderKeys.get",
