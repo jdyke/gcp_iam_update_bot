@@ -29,6 +29,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/mandiant.admin",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Mandiant Admin"
 }

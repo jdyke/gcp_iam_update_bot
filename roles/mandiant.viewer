@@ -12,6 +12,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/mandiant.viewer",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Mandiant Viewer"
 }

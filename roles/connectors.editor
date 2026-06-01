@@ -77,6 +77,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/connectors.editor",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Connectors Editor"
 }
