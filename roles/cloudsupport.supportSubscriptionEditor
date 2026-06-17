@@ -1,0 +1,10 @@
+{
+  "description": "Full read-write access to support event subscriptions.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.organizations.get"
+  ],
+  "name": "roles/cloudsupport.supportSubscriptionEditor",
+  "stage": "GA",
+  "title": "Support Subscription Editor"
+}
