@@ -1,0 +1,12 @@
+{
+  "description": "Allows full management of the Data Domain and its bindings.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "dataplex.operations.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/dataplex.dataDomainAdmin",
+  "stage": "ALPHA",
+  "title": "Dataplex Data Domain Admin"
+}
