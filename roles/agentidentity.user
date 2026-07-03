@@ -1,0 +1,7 @@
+{
+  "description": "Grants access to retrieve credentials from auth providers.",
+  "etag": "AA==",
+  "name": "roles/agentidentity.user",
+  "stage": "ALPHA",
+  "title": "Auth Provider User"
+}
