@@ -1,5 +1,5 @@
 {
-  "description": "Readonly access to Agent Registry API resources.",
+  "description": "Create, update, and delete skills and skill revisions.",
   "etag": "AA==",
   "includedPermissions": [
     "agentregistry.agents.get",
@@ -21,13 +21,18 @@
     "agentregistry.publishers.list",
     "agentregistry.services.get",
     "agentregistry.services.list",
+    "agentregistry.skillRevisions.create",
+    "agentregistry.skillRevisions.delete",
     "agentregistry.skillRevisions.get",
     "agentregistry.skillRevisions.list",
+    "agentregistry.skills.create",
+    "agentregistry.skills.delete",
     "agentregistry.skills.get",
     "agentregistry.skills.list",
-    "agentregistry.skills.search"
+    "agentregistry.skills.search",
+    "agentregistry.skills.update"
   ],
-  "name": "roles/agentregistry.viewer",
+  "name": "roles/agentregistry.user",
   "stage": "BETA",
-  "title": "Agent Registry API Viewer"
+  "title": "Agent Registry User"
 }
