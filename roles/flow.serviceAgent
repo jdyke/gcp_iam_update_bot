@@ -8,6 +8,6 @@
     "serviceusage.services.use"
   ],
   "name": "roles/flow.serviceAgent",
-  "stage": "ALPHA",
+  "stage": "GA",
   "title": "Flow Service Agent"
 }
