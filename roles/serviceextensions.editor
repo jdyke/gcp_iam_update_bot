@@ -3,9 +3,12 @@
   "etag": "AA==",
   "includedPermissions": [
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list"
+    "resourcemanager.projects.list",
+    "serviceextensions.callouts.invoke",
+    "serviceextensions.locations.get",
+    "serviceextensions.locations.list"
   ],
   "name": "roles/serviceextensions.editor",
-  "stage": "ALPHA",
+  "stage": "BETA",
   "title": "Service Extensions Editor"
 }
