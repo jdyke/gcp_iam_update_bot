@@ -1,0 +1,7 @@
+{
+  "description": "Grants access to endpoints and networks, including the ability to submit transactions. Currently, this role has the same permissions as the Universal Ledger Editor role.",
+  "etag": "AA==",
+  "name": "roles/universalledger.admin",
+  "stage": "ALPHA",
+  "title": "Universal Ledger Admin"
+}
