@@ -2,8 +2,7 @@
   "description": "Admin of Apigee Connect",
   "etag": "AA==",
   "includedPermissions": [
-    "apigeeconnect.connections.list",
-    "apigeeconnect.endpoints.connect"
+    "apigeeconnect.connections.list"
   ],
   "name": "roles/apigeeconnect.Admin",
   "stage": "GA",

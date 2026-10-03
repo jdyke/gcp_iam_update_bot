@@ -96,8 +96,7 @@
     "geminidataanalytics.locations.chat",
     "geminidataanalytics.locations.useDataEngineeringAgent",
     "resourcemanager.projects.get",
-    "resourcemanager.projects.list",
-    "serviceusage.services.get"
+    "resourcemanager.projects.list"
   ],
   "name": "roles/bigquery.studioUser",
   "stage": "GA",

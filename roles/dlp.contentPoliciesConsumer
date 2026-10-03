@@ -1,0 +1,7 @@
+{
+  "description": "Apply content policies.",
+  "etag": "AA==",
+  "name": "roles/dlp.contentPoliciesConsumer",
+  "stage": "ALPHA",
+  "title": "DLP Content Policies Consumer"
+}

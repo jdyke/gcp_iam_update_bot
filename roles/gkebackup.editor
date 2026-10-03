@@ -1,5 +1,5 @@
 {
-  "description": "Editor role for Backup for GKE",
+  "description": "Editor role for gkebackup",
   "etag": "AA==",
   "includedPermissions": [
     "gkebackup.backupChannels.create",
@@ -54,5 +54,5 @@
   ],
   "name": "roles/gkebackup.editor",
   "stage": "GA",
-  "title": "Backup for GKE Editor"
+  "title": "Gkebackup Editor"
 }

@@ -42,15 +42,8 @@
     "networkservices.wasmPlugins.use",
     "resourcemanager.projects.get",
     "resourcemanager.projects.list",
-    "serviceusage.consumerpolicy.analyze",
-    "serviceusage.consumerpolicy.get",
-    "serviceusage.effectivepolicy.get",
-    "serviceusage.groups.list",
-    "serviceusage.groups.listExpandedMembers",
-    "serviceusage.groups.listMembers",
     "serviceusage.quotas.get",
-    "serviceusage.services.get",
-    "serviceusage.values.test"
+    "serviceusage.services.get"
   ],
   "name": "roles/networkservices.serviceExtensionsAdmin",
   "stage": "BETA",

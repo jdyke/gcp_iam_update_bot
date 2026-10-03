@@ -1,5 +1,5 @@
 {
-  "description": "Editor role for Proximity Beacon",
+  "description": "Editor role for proximitybeacon",
   "etag": "AA==",
   "includedPermissions": [
     "proximitybeacon.attachments.create",
@@ -21,5 +21,5 @@
   ],
   "name": "roles/proximitybeacon.editor",
   "stage": "GA",
-  "title": "Beacon Editor"
+  "title": "Proximitybeacon Editor"
 }
