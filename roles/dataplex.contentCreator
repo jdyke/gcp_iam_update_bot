@@ -8,6 +8,6 @@
     "resourcemanager.projects.list"
   ],
   "name": "roles/dataplex.contentCreator",
-  "stage": "GA",
+  "stage": "ALPHA",
   "title": "Dataplex Content Creator"
 }
